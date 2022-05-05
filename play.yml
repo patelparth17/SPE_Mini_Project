@@ -10,6 +10,3 @@
 
     - name: pull docker image
       shell: docker pull patelparth17/calcproj
-
-    - name: running container
-      shell: docker run -it -d patelparth17/calcproj
