@@ -1,5 +1,5 @@
 ---
-- name: Pull docker image of Calculator
+- name: Pull docker image of Customised Calculator
   hosts: all
   tasks:
 
