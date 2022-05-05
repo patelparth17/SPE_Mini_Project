@@ -1,0 +1,18 @@
+2022-05-05 11:54:23.575 [main] INFO  Customisedcalc.Calc - [FACTORIAL] - 12.0
+2022-05-05 11:54:23.590 [main] INFO  Customisedcalc.Calc - [RESULT - FACTORIAL] - 4.790016E8
+2022-05-05 11:54:33.539 [main] INFO  Customisedcalc.Calc - [SQ ROOT] - 16.0
+2022-05-05 11:54:33.541 [main] INFO  Customisedcalc.Calc - [RESULT - SQ ROOT] - 4.0
+2022-05-05 11:54:43.450 [main] INFO  Customisedcalc.Calc - [NATURAL LOG] - 100.0
+2022-05-05 11:54:43.451 [main] INFO  Customisedcalc.Calc - [RESULT - NATURAL LOG] - 4.605170185988092
+2022-05-05 11:54:51.893 [main] INFO  Customisedcalc.Calc - [POWER - 4.0 RAISED TO] 5.0
+2022-05-05 11:54:51.895 [main] INFO  Customisedcalc.Calc - [RESULT - POWER] - 1024.0
+2022-05-05 11:54:58.667 [main] INFO  Customisedcalc.Calc - [FACTORIAL] - 4.0
+2022-05-05 11:54:58.669 [main] INFO  Customisedcalc.Calc - [RESULT - FACTORIAL] - 24.0
+2022-05-05 11:55:06.214 [main] INFO  Customisedcalc.Calc - [POWER - 12.0 RAISED TO] 2.0
+2022-05-05 11:55:06.214 [main] INFO  Customisedcalc.Calc - [RESULT - POWER] - 144.0
+2022-05-05 11:55:19.138 [main] INFO  Customisedcalc.Calc - [NATURAL LOG] - 16.0
+2022-05-05 11:55:19.139 [main] INFO  Customisedcalc.Calc - [RESULT - NATURAL LOG] - 2.772588722239781
+2022-05-05 11:55:35.253 [main] INFO  Customisedcalc.Calc - [NATURAL LOG] - 2.718
+2022-05-05 11:55:35.253 [main] INFO  Customisedcalc.Calc - [RESULT - NATURAL LOG] - 0.999896315728952
+2022-05-05 11:55:43.574 [main] INFO  Customisedcalc.Calc - [FACTORIAL] - 5.0
+2022-05-05 11:55:43.575 [main] INFO  Customisedcalc.Calc - [RESULT - FACTORIAL] - 120.0
