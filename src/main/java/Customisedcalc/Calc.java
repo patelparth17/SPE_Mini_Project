@@ -99,23 +99,23 @@ public class Calc {
         return result;
     }
 
-//    public double naturalLog(double number1) {
-//        logger.info("[NATURAL LOG] - " + number1);
-//        double result = 0;
-//        try {
-//
-//            if (number1 <0 ) {
-//                result = Double.NaN;
-//                throw new ArithmeticException("Case of NaN 0.0/0.0");
-//            }
-//            else {
-//                result = Math.log(number1);
-//            }
-//        } catch (ArithmeticException error) {
-//            System.out.println("[EXCEPTION - LOG] - Cannot find log of negative numbers " + error.getLocalizedMessage());
-//        }
-//        logger.info("[RESULT - NATURAL LOG] - " + result);
-//        return result;
-//    }
+    public double naturalLog(double number1) {
+        logger.info("[NATURAL LOG] - " + number1);
+        double result = 0;
+        try {
+
+            if (number1 <0 ) {
+                result = Double.NaN;
+                throw new ArithmeticException("Case of NaN 0.0/0.0");
+            }
+            else {
+                result = Math.log(number1);
+            }
+        } catch (ArithmeticException error) {
+            System.out.println("[EXCEPTION - LOG] - Cannot find log of negative numbers " + error.getLocalizedMessage());
+        }
+        logger.info("[RESULT - NATURAL LOG] - " + result);
+        return result;
+    }
 
 }
