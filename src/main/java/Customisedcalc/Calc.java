@@ -36,15 +36,15 @@ public class Calc {
                     System.out.println("\n");
 
                     break;
-//                case 2:
-//                    // Square root
-//                    System.out.print("Enter a number : ");
-//                    number1 = scanner.nextDouble();
-//                    System.out.println("Square root of "+number1+" is : " + calculator.sqroot(number1));
-//                    System.out.println("\n");
-//
-//
-//                    break;
+                case 2:
+                    // Square root
+                    System.out.print("Enter a number : ");
+                    number1 = scanner.nextDouble();
+                    System.out.println("Square root of "+number1+" is : " + calculator.sqroot(number1));
+                    System.out.println("\n");
+
+
+                    break;
 //                case 3:
 //                    // Power
 //                    System.out.print("Enter the first number : ");
@@ -84,12 +84,12 @@ public class Calc {
         return  factorial;
     }
 
-//    public double sqroot(double number1) {
-//        logger.info("[SQ ROOT] - " + number1);
-//        double result = Math.sqrt(number1);
-//        logger.info("[RESULT - SQ ROOT] - " + result);
-//        return result;
-//    }
+    public double sqroot(double number1) {
+        logger.info("[SQ ROOT] - " + number1);
+        double result = Math.sqrt(number1);
+        logger.info("[RESULT - SQ ROOT] - " + result);
+        return result;
+    }
 //
 //
 //    public double power(double number1, double number2) {
