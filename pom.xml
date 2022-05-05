@@ -22,7 +22,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>Customisedcalc.calc</mainClass>
+                                    <mainClass>Customisedcalc.Calc</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
