@@ -40,6 +40,7 @@ pipeline {
                 sh "docker rmi $registry"
             }
         }
+
 //         stage('Ansible Deploy') {
 //             steps {
 //                 ansiblePlaybook colorized: true, disableHostKeyChecking: true, installation: 'Ansible', inventory: 'inventory', playbook: 'p2.yml'
