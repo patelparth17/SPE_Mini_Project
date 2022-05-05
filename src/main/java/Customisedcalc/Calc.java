@@ -90,15 +90,15 @@ public class Calc {
         logger.info("[RESULT - SQ ROOT] - " + result);
         return result;
     }
-//
-//
-//    public double power(double number1, double number2) {
-//        logger.info("[POWER - " + number1 + " RAISED TO] " + number2);
-//        double result = Math.pow(number1,number2);
-//        logger.info("[RESULT - POWER] - " + result);
-//        return result;
-//    }
-//
+
+
+    public double power(double number1, double number2) {
+        logger.info("[POWER - " + number1 + " RAISED TO] " + number2);
+        double result = Math.pow(number1,number2);
+        logger.info("[RESULT - POWER] - " + result);
+        return result;
+    }
+
 //    public double naturalLog(double number1) {
 //        logger.info("[NATURAL LOG] - " + number1);
 //        double result = 0;
