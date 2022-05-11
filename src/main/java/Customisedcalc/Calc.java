@@ -17,7 +17,7 @@ public class Calc {
         Scanner scanner = new Scanner(System.in);
         double number1, number2;
         do {
-            System.out.println("Parth's Customised Scientific calculator using DevOps. \n Choose operation:");
+            System.out.println(" Parth's Customised Scientific calculator using DevOps. \n Choose operation:");
             System.out.print("1. Factorial\n2. Square root\n3. Power\n4. Natural Logarithm\n" +
                     "5. Exit\nEnter your choice: ");
             int choice;
